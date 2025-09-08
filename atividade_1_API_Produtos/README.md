@@ -11,13 +11,13 @@ Esta é uma API RESTful simples para gerenciar produtos, desenvolvida em Node.js
     git clone [https://github.com/lcribeiro1976/pi2.git](https://github.com/lcribeiro1976/pi2.git)
     ```
 
-2.  **Instale as dependências:**
+2.  **Instalação das dependências:**
     ```bash
     cd pi2
     npm install
     ```
 
-3.  **Inicie a aplicação:**
+3.  **Iniciando a aplicação:**
     ```bash
     node app.js
     ```
