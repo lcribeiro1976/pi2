@@ -27,6 +27,36 @@ A API oferece os seguintes endpoints para a gestão dos jogos:
 - **Nodemon**: Ferramenta para desenvolvimento (recarrega o servidor automaticamente).
 
 ---
+API REST de Gerenciamento de Jogos
+Este relatório descreve as funcionalidades e os middlewares implementados na API REST para gerenciar uma coleção de jogos, desenvolvida com Node.js e Express.js.
+
+Funcionalidades (CRUD)
+A API foi projetada para permitir o gerenciamento completo da coleção de jogos, seguindo o padrão CRUD (Create, Read, Update, Delete). As seguintes rotas foram implementadas:
+
+POST /api/games: Responsável por criar um novo registro de jogo no banco de dados, a partir dos dados enviados no corpo da requisição.
+
+GET /api/games: Permite listar todos os jogos cadastrados na coleção.
+
+GET /api/games/:id: Utilizada para visualizar os detalhes de um único jogo, buscando-o por seu ID exclusivo.
+
+PUT /api/games/:id: Atualiza as informações de um jogo existente, usando seu ID como identificador.
+
+DELETE /api/games/:id: Deleta um jogo permanentemente da coleção, com base no seu ID.
+
+Middlewares Implementados
+Os middlewares foram essenciais para processar as requisições, tratar erros e garantir a segurança e a usabilidade da API.
+
+express.json(): Este middleware global foi utilizado para processar e analisar corpos de requisição no formato JSON, permitindo que a API receba e interprete os dados enviados nas requisições POST e PUT.
+
+cors(): O middleware de CORS (Cross-Origin Resource Sharing) foi implementado para permitir que a API seja acessada por aplicações web hospedadas em domínios diferentes. Isso é fundamental para que um frontend, por exemplo, possa se comunicar com a API sem bloqueios de segurança do navegador.
+
+Middleware de Erro Centralizado: Um middleware de erro foi criado para capturar e tratar todos os erros da aplicação de forma padronizada. Ele assegura que a API retorne respostas claras com códigos de status apropriados para diferentes tipos de erros, como:
+
+400 Bad Request: Para erros de validação de dados ou IDs inválidos.
+
+404 Not Found: Quando um recurso (como um jogo com um ID específico) não é encontrado.
+
+500 Internal Server Error: Para erros inesperados no servidor, garantindo que o cliente receba uma resposta consistente.
 
 ## 📦 Como Rodar o Projeto
 
