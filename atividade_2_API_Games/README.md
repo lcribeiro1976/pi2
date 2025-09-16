@@ -41,3 +41,4 @@ cd atividade_2_API_Games
 <img width="1144" height="563" alt="Captura de tela 2025-09-15 192929" src="https://github.com/user-attachments/assets/3a8e4f01-afee-44c9-8f31-be66324fa8a1" />
 <img width="1140" height="563" alt="Captura de tela 2025-09-15 193839" src="https://github.com/user-attachments/assets/64d89dfb-157c-4cfa-96cb-ffc3f21061fa" />
 <img width="1136" height="601" alt="Captura de tela 2025-09-15 194104" src="https://github.com/user-attachments/assets/05adae9f-4eae-4683-839d-80d2b483d851" />
+https://1drv.ms/i/c/4516005a3c9096e3/EaLSXD5AgDpMuWc4cxpLjDsB0N7K3Pq3ZcVuflEERhoUAg?e=VupgYI
