@@ -49,3 +49,4 @@ https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg_aHlVoQv6LvCC
 <img width="1144" height="563" alt="Captura de tela 2025-09-15 192929" src="https://github.com/user-attachments/assets/c10bc943-0121-463d-a3b9-0f79aa724b6a" />
 <img width="1140" height="563" alt="Captura de tela 2025-09-15 193839" src="https://github.com/user-attachments/assets/524c4396-c318-420a-82fa-2c25fdd7cb25" />
 <img width="1136" height="601" alt="Captura de tela 2025-09-15 194104" src="https://github.com/user-attachments/assets/59f245a6-0573-47ca-9c03-113b32dbf0f2" />
+![Texto Alternativo](https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac_j0_tg?e=UHR9Jt)
