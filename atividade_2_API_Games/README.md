@@ -37,3 +37,4 @@ Siga estes passos para configurar e executar a API em sua máquina local.
 git clone https://github.com/lcribeiro1976/pi2.git
 cd atividade_2_API_Games
 
+https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac_j0_tg?e=UHR9Jt.md
