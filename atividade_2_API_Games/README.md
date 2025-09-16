@@ -39,8 +39,8 @@ cd atividade_2_API_Games
 
 ## 🚀 Prints dos Testes do Postman
 
-https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac_j0_tg?e=UHR9Jt
-https://1drv.ms/i/c/4516005a3c9096e3/Ed1C-NRyXYRJvJZaF3Lwgt4Bp5zpfnpWjit8kU74nszXJA?e=63EHn1
-https://1drv.ms/i/c/4516005a3c9096e3/Edxe6OosH7NDuRDhXduUu98Bgo35Os8czK2ZUL0THozsGA?e=loyfMz
-https://1drv.ms/i/c/4516005a3c9096e3/EY0FVc5tAypPupOwmeuoXFEBMgxnFltwTvnD66gTeHwXRA?e=6cOrvM
-https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg_aHlVoQv6LvCCf_Q?e=y1lgnP
+<img width="1150" height="605" alt="Captura de tela 2025-09-15 161025" src="https://github.com/user-attachments/assets/26ec8a92-9457-41a5-87ec-73e32de22a63" />
+<img width="1141" height="569" alt="Captura de tela 2025-09-15 192529" src="https://github.com/user-attachments/assets/f39068cb-dca2-48ab-a88b-3a489176d10a" />
+<img width="1136" height="601" alt="Captura de tela 2025-09-15 194104" src="https://github.com/user-attachments/assets/48c2977b-0689-42c0-a326-0efdba8b1729" />
+<img width="1140" height="563" alt="Captura de tela 2025-09-15 193839" src="https://github.com/user-attachments/assets/b4e3cfdc-a049-4fa4-b33e-9b544abed98b" />
+<img width="1144" height="563" alt="Captura de tela 2025-09-15 192929" src="https://github.com/user-attachments/assets/b7eea6d6-4e7e-4971-9436-e5ccef5c8426" />
