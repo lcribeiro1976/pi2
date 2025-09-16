@@ -44,5 +44,3 @@ https://1drv.ms/i/c/4516005a3c9096e3/Ed1C-NRyXYRJvJZaF3Lwgt4Bp5zpfnpWjit8kU74nsz
 https://1drv.ms/i/c/4516005a3c9096e3/Edxe6OosH7NDuRDhXduUu98Bgo35Os8czK2ZUL0THozsGA?e=loyfMz
 https://1drv.ms/i/c/4516005a3c9096e3/EY0FVc5tAypPupOwmeuoXFEBMgxnFltwTvnD66gTeHwXRA?e=6cOrvM
 https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg_aHlVoQv6LvCCf_Q?e=y1lgnP
-
-![Logo do Projeto](https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac_j0_tg?e=UHR9Jt/Captura de tela 2025-09-15 161025.png)
