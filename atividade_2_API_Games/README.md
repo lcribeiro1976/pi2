@@ -44,3 +44,4 @@ cd atividade_2_API_Games
 <img width="1144" height="563" alt="Captura de tela 2025-09-15 192929" src="https://github.com/user-attachments/assets/95fcd872-98c5-44de-8005-4a9431c579af" />
 <img width="1141" height="569" alt="Captura de tela 2025-09-15 192529" src="https://github.com/user-attachments/assets/a529a289-282f-4ecc-a514-97e604474912" />
 <img width="1150" height="605" alt="Captura de tela 2025-09-15 161025" src="https://github.com/user-attachments/assets/f27b1503-8f4d-461c-8201-d2e941072213" />
+<img width="1150" height="605" alt="Print do teste POST do Postman" src="./assets/teste_postman.png" />
