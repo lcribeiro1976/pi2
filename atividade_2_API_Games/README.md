@@ -77,10 +77,6 @@ cd atividade\\\_2\\\_API\\\_Games
 <img width="1141" height="569" alt="Captura de tela 2025-09-15 192529" src="https://github.com/user-attachments/assets/a529a289-282f-4ecc-a514-97e604474912" />
 <img width="1150" height="605" alt="Captura de tela 2025-09-15 161025" src="https://github.com/user-attachments/assets/f27b1503-8f4d-461c-8201-d2e941072213" />
 
-https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac\\\_j0\\\_tg?e=wFAzvK
-https://1drv.ms/i/c/4516005a3c9096e3/Ed1C-NRyXYRJvJZaF3Lwgt4Bp5zpfnpWjit8kU74nszXJA?e=Vhqvlr
-https://1drv.ms/i/c/4516005a3c9096e3/Edxe6OosH7NDuRDhXduUu98Bgo35Os8czK2ZUL0THozsGA?e=2VVu1N
-https://1drv.ms/i/c/4516005a3c9096e3/EY0FVc5tAypPupOwmeuoXFEBMgxnFltwTvnD66gTeHwXRA?e=7toCaQ
-https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg\\\_aHlVoQv6LvCCf\\\_Q?e=l6RG35
+
 
 
