@@ -84,3 +84,4 @@ https://1drv.ms/i/c/4516005a3c9096e3/EY0FVc5tAypPupOwmeuoXFEBMgxnFltwTvnD66gTeHw
 https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg_aHlVoQv6LvCCf_Q?e=l6RG35
 
 ![Texto Alternativo](https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac_j0_tg?e=wFAzvK)
+![Logo do Projeto](Captura de tela 2025-09-15 194104.png)
