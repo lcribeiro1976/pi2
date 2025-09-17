@@ -71,17 +71,14 @@ cd atividade\\\_2\\\_API\\\_Games
 
 ## 🚀 Prints dos Testes do Postman
 
-<img width="1136" height="601" alt="Captura de tela 2025-09-15 194104" src="https://github.com/user-attachments/assets/01cbe451-3c27-4951-8e93-e1ceb44e7a9a" />
-<img width="1140" height="563" alt="Captura de tela 2025-09-15 193839" src="https://github.com/user-attachments/assets/64095993-930f-4dca-a2e6-b783e1a67ea3" />
-<img width="1144" height="563" alt="Captura de tela 2025-09-15 192929" src="https://github.com/user-attachments/assets/95fcd872-98c5-44de-8005-4a9431c579af" />
-<img width="1141" height="569" alt="Captura de tela 2025-09-15 192529" src="https://github.com/user-attachments/assets/a529a289-282f-4ecc-a514-97e604474912" />
-<img width="1150" height="605" alt="Captura de tela 2025-09-15 161025" src="https://github.com/user-attachments/assets/f27b1503-8f4d-461c-8201-d2e941072213" />
-
 https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac_j0_tg?e=wFAzvK
 https://1drv.ms/i/c/4516005a3c9096e3/Ed1C-NRyXYRJvJZaF3Lwgt4Bp5zpfnpWjit8kU74nszXJA?e=Vhqvlr
 https://1drv.ms/i/c/4516005a3c9096e3/Edxe6OosH7NDuRDhXduUu98Bgo35Os8czK2ZUL0THozsGA?e=2VVu1N
 https://1drv.ms/i/c/4516005a3c9096e3/EY0FVc5tAypPupOwmeuoXFEBMgxnFltwTvnD66gTeHwXRA?e=7toCaQ
 https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg_aHlVoQv6LvCCf_Q?e=l6RG35
 
-![Texto Alternativo](https://1drv.ms/i/c/4516005a3c9096e3/EYaHKwBD4tVAgXeFHUqmoKUBzwE2k2icyP9Mtfac_j0_tg?e=wFAzvK)
-![Logo do Projeto](Captura de tela 2025-09-15 194104.png)
+<img width="1150" height="605" alt="Captura de tela 2025-09-15 161025" src="https://github.com/user-attachments/assets/6f6e9258-8eab-4039-b47f-316c40099c6f" />
+<img width="1136" height="601" alt="Captura de tela 2025-09-15 194104" src="https://github.com/user-attachments/assets/1bcbd256-7640-4682-823f-d4cbccb50dd8" />
+<img width="1140" height="563" alt="Captura de tela 2025-09-15 193839" src="https://github.com/user-attachments/assets/a7e33a91-6683-4052-bbf3-a0664f952cd8" />
+<img width="1144" height="563" alt="Captura de tela 2025-09-15 192929" src="https://github.com/user-attachments/assets/5d785675-bcf0-4cd3-b776-5ba0d23513d6" />
+<img width="1141" height="569" alt="Captura de tela 2025-09-15 192529" src="https://github.com/user-attachments/assets/176f36e0-99ba-47c7-9ffe-8572c03c18b6" />
