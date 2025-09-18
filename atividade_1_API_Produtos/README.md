@@ -8,12 +8,12 @@ Esta é uma API RESTful simples para gerenciar produtos, desenvolvida em Node.js
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/lcribeiro1976/pi2.git](https://github.com/lcribeiro1976/pi2.git)
+    git clone https://github.com/lcribeiro1976/pi2/atividade_1_API_Produtos.git
+    cd atividade_1_API_Produtos
     ```
 
 2.  **Instalação das dependências:**
     ```bash
-    cd pi2
     npm install
     ```
 
