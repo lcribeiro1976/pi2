@@ -83,4 +83,4 @@ https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg_aHlVoQv6LvCC
 <img width="1144" height="563" alt="Captura de tela 2025-09-15 192929" src="https://github.com/user-attachments/assets/5d785675-bcf0-4cd3-b776-5ba0d23513d6" />
 <img width="1141" height="569" alt="Captura de tela 2025-09-15 192529" src="https://github.com/user-attachments/assets/176f36e0-99ba-47c7-9ffe-8572c03c18b6" />
 
-Arquivo de Coleção: 
+Arquivo de Coleção: https://github.com/lcribeiro1976/pi2/blob/main/atividade_2_API_Games/attachments/assets
