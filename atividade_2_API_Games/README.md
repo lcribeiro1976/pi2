@@ -84,3 +84,4 @@ https://1drv.ms/i/c/4516005a3c9096e3/EZiRv5Wvhr9LhkejFRVTNhcBPcQWkg_aHlVoQv6LvCC
 <img width="1141" height="569" alt="Captura de tela 2025-09-15 192529" src="https://github.com/user-attachments/assets/176f36e0-99ba-47c7-9ffe-8572c03c18b6" />
 
 <img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
+
