@@ -66,8 +66,8 @@ Siga estes passos para configurar e executar a API em sua máquina local.
 **1. Clone o repositório:**
 
 ```bash
-git clone https://github.com/lcribeiro1976/pi2.git
-cd atividade\\\_2\\\_API\\\_Games
+git clone https://github.com/lcribeiro1976/pi2/atividade_2_API_Gmaes.git
+cd atividade_2_API_Games
 
 ## 🚀 Prints dos Testes do Postman
 
