@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gestão de Alunos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Alunos</h1>
+    <button id="btn-recarregar" type="button">Recarregar</button>
+  </header>
+
+  <main>
+    <!-- Formulário de criação -->
+    <section class="card">
+      <h2>Novo aluno</h2>
+      <form id="form-criar">
+        <div class="grid">
+          <label>Nome
+            <input id="create-nome" required />
+          </label>
+          <label>Idade
+            <input id="create-idade" type="number" min="0" required />
+          </label>
+          <label>Curso
+            <input id="create-curso" required />
+          </label>
+        </div>
+        <div class="actions">
+          <button type="submit">Adicionar</button>
+          <span id="create-status" class="status" aria-live="polite"></span>
+        </div>
+      </form>
+    </section>
+
+    <!-- Lista -->
+    <section class="card">
+      <h2>Lista</h2>
+      <table id="tabela-alunos">
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Curso</th>
+            <th style="width:160px">Ações</th>
+          </tr>
+        </thead>
+        <tbody><!-- preenchido via JS --></tbody>
+      </table>
+    </section>
+  </main>
+
+  <!-- Modal de edição -->
+  <dialog id="dlg-editar">
+    <form id="form-editar" method="dialog">
+      <h3>Editar aluno</h3>
+      <input type="hidden" id="edit-id" />
+      <label>Nome
+        <input id="edit-nome" required />
+      </label>
+      <label>Idade
+        <input id="edit-idade" type="number" min="0" required />
+      </label>
+      <label>Curso
+        <input id="edit-curso" required />
+      </label>
+      <menu>
+        <button type="button" id="btn-cancelar-edicao" class="secondary">Cancelar</button>
+        <button type="submit" id="btn-salvar-edicao">Salvar</button>
+      </menu>
+      <p id="edit-status" class="status" aria-live="polite"></p>
+    </form>
+  </dialog>
+
+  <script src="script.js"></script>
+</body>
+</html>
